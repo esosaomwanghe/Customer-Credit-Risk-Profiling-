@@ -27,13 +27,12 @@ Interactive executive dashboard that identifies high-risk credit customers using
 *Interactive Power BI dashboard – full view*
 
 ### Files in this Repository
-- `Customer_Risk_Profiling_Dashboard.pbix` → Full Power BI file  
-- `data/` → Anonymized dataset (if allowed) or sample rows  
-- `assets/images/` → High-resolution screenshots
+- `Customer_Risk_Profiling_Dashboard.pbix` → Full Power BI file   
+- `High-resolution screenshots
 
 
 [← Back to Main Portfolio](https://github.com/esosaomwanghe)
 
 ---
-**Esosa Omwanghe** | Data Analyst | Toronto, Canada  
+**Esosa Omwanghe** | Data Analyst | Brampton, Canada  
 Turning quality & operations expertise into actionable analytics
