@@ -23,7 +23,7 @@ Interactive executive dashboard that identifies high-risk credit customers using
 - **Clustering logic** built using payment behavior, credit utilization, and demographics
 
 ### Screenshots
-![Customer Risk Profiling Dashboard](assets/images/customer-risk-dashboard-full.png)
+![Customer Risk Profiling Dashboard](Customer Risk Profiling.png)
 *Interactive Power BI dashboard – full view*
 
 ### Files in this Repository
