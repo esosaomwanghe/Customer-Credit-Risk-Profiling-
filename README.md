@@ -26,9 +26,8 @@ Interactive executive dashboard that identifies high-risk credit customers using
 ![Customer Risk Profiling Dashboard](https://github.com/esosaomwanghe/Customer-Credit-Risk-Profiling-/blob/main/Customer%20Risk%20Profiling.png)
 *Interactive Power BI dashboard – full view*
 
-### Files in this Repository
-- `Customer_Risk_Profiling_Dashboard.pbix` → Full Power BI file   
-- `High-resolution screenshots
+Live Interactive Version:  
+🔗 [View in Power BI Service](#) *(https://app.powerbi.com/groups/e1d745d0-52d1-4ee5-9a4e-c3b00a2c6690/reports/06ec182b-7eee-4539-882a-2850bf8777f7?experience=power-bi)*
 
 
 [← Back to Main Portfolio](https://github.com/esosaomwanghe)
